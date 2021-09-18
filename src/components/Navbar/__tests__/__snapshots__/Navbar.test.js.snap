@@ -1,0 +1,155 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Navbar rendered correctly 1`] = `
+<div
+  className="navbar"
+>
+  <div
+    className="navbarLogo"
+  >
+    <a
+      href="/"
+      onClick={[Function]}
+    >
+      <img
+        className=""
+        src="navBarLogo.png"
+      />
+    </a>
+  </div>
+  <div
+    className="navbarLinks"
+  >
+    <a
+      className="eachLinksInNavbar"
+      href="/"
+      onClick={[Function]}
+    >
+      Home
+    </a>
+    <a
+      className="eachLinksInNavbar"
+      href="/search"
+      onClick={[Function]}
+    >
+      Search
+    </a>
+    <a
+      className="eachLinksInNavbar"
+      href="/requestsPage"
+      onClick={[Function]}
+    >
+      Requests
+    </a>
+    <a
+      className="eachLinksInNavbar"
+      href="/about"
+      onClick={[Function]}
+    >
+      About
+    </a>
+    <a
+      className="eachLinksInNavbar"
+      href="/contactUs"
+      onClick={[Function]}
+    >
+      Contact Us
+    </a>
+    <div
+      className="dropdownBasicButton dropdown"
+    >
+      <button
+        aria-expanded={false}
+        aria-haspopup={true}
+        className="dropdown-toggle btn btn-primary"
+        disabled={false}
+        onClick={[Function]}
+        type="button"
+      >
+        Language
+      </button>
+    </div>
+  </div>
+  <div
+    className="navbarProfile"
+  >
+    <a
+      href="/logIn"
+      onClick={[Function]}
+    >
+      <button
+        className="btn btn-primary"
+        disabled={false}
+        style={
+          Object {
+            "borderRadius": "0.75rem",
+            "display": "inline-block",
+            "marginBottom": "5%",
+          }
+        }
+        type="button"
+      >
+        Login
+      </button>
+    </a>
+    <a
+      href="/signUp"
+      onClick={[Function]}
+    >
+      <button
+        className="btn btn-primary"
+        disabled={false}
+        style={
+          Object {
+            "borderRadius": "0.75rem",
+            "display": "inline-block",
+            "marginBottom": "5%",
+          }
+        }
+        type="button"
+      >
+        Sign Up
+      </button>
+    </a>
+    <a
+      href="/userProfile"
+      onClick={[Function]}
+    >
+      <button
+        className="btn btn-primary"
+        disabled={false}
+        style={
+          Object {
+            "borderRadius": "0.75rem",
+            "display": "none",
+            "marginBottom": "5%",
+          }
+        }
+        type="button"
+      >
+        
+      </button>
+    </a>
+    <a
+      href="/"
+      onClick={[Function]}
+    >
+      <button
+        className="btn btn-primary"
+        disabled={false}
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "0.75rem",
+            "display": "none",
+            "marginBottom": "5%",
+          }
+        }
+        type="button"
+      >
+        Log Out
+      </button>
+    </a>
+  </div>
+</div>
+`;

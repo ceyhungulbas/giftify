@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Boards rendered correctly 1`] = `
+<div>
+  <div>
+    <div
+      className="container"
+    >
+      <div
+        className="row cards"
+      />
+    </div>
+  </div>
+</div>
+`;
